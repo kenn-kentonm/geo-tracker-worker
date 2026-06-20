@@ -1,0 +1,39 @@
+# GEO Tracker
+
+> AI mention analytics for brands. Track where and how your brand appears across AI search engines like Gemini, Perplexity, and ChatGPT.
+
+## What it does
+
+- Monitors brand mentions across AI engines (Gemini, Perplexity, OpenAI)
+- Tracks share of voice over time
+- Detects competitor mentions
+- Scores sentiment of brand mentions
+- Alerts when brand is missing from AI responses it should appear in
+
+## Who it's for
+
+- Marketing teams who want to know if their brand appears in AI search results
+- Founders tracking brand visibility in AI-powered search
+- SEO professionals expanding into Generative Engine Optimization (GEO)
+
+## Key concepts
+
+- Share of Voice (SoV): percentage of AI responses that mention your brand
+- Citation tracking: which websites AI engines cite when answering queries in your category
+- Competitor displacement: when a competitor is mentioned instead of you
+
+## Product
+
+- URL: https://geo.blinkerhub.com
+- Pricing: Free tier (3 keywords, manual scan) · Pro UGX 90,000/mo (20 keywords, daily auto-scan)
+- Built by: Blinkerhub (blinkerhub.com)
+
+## API / Integrations
+
+- MCP server available for Claude integration
+- Webhook support for scan completion alerts (Pro tier)
+
+## Contact
+
+- Web: https://blinkerhub.com
+- Email: hello@blinkerhub.com
