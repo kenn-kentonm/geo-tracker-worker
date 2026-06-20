@@ -2,6 +2,7 @@ services:
   - type: worker
     name: geo-tracker-worker
     runtime: node
+    nodeVersion: 20.x
     buildCommand: npm install
     startCommand: npm start
     envVars:
